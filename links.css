@@ -1,0 +1,87 @@
+  
+  .links {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 32px;
+    width: 653px;
+    height: 19px;
+  }
+  
+  
+  .links__encabezado {
+
+    list-style: none;
+    height: 19px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+  
+     }
+
+  
+
+ .fulanadetal {
+    width: 102px;
+    height: 19px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #464646;
+  }
+    
+   li {
+  list-style: none;
+   }
+
+
+
+.links__encabezado-item2 {
+    width: 67px;
+    color: #464646;
+   
+
+}
+
+.links__encabezado-item3 {
+    width: 40px;
+color: #464646;
+
+
+
+}
+
+.links__encabezado-item4 {
+width: 63px;
+color: #464646;
+
+}
+
+.links__encabezado-item5 {
+width: 80px;
+color: #464646;
+
+}
+
+.links__encabezado-item6 {
+    width: 75px;
+    color: #464646;
+   
+    }
+    
+    .links__encabezado-item7 {
+        width: 168px;
+        color: #464646;
+       
+        }
+
+        
+a {
+  text-decoration: none;
+}

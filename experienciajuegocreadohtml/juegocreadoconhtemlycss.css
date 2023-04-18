@@ -1,0 +1,99 @@
+.juego {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+    
+    width: 1136px;
+    height: 406px;
+}
+
+.juego__imagen {
+    width: 752px;
+    height: 406px;
+    
+    border-radius: 0px;
+ 
+    }
+
+.juego__infos {
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 368px;
+height: 138px;
+
+}
+
+.juego__texto1{
+    width: 368px;
+height: 52px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 26px;
+color: #464646;
+
+}
+
+.juego__texto2 {
+    width: 368px;
+height: 19px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #464646;
+}
+
+.botones2 {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 560px;
+height: 51px;
+}
+
+.boton__repositorio2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    gap: 10px;
+    
+    width: 116px;
+    height: 51px;
+    box-sizing: border-box;
+    border: 1px solid #2A7AE4;
+    color: #2A7AE4;
+   
+    
+}
+
+.boton__demo2 {
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 10px;
+
+width: 105px;
+height: 51px;
+background: #2A7AE4;
+color:#FFFFFF;
+}
+

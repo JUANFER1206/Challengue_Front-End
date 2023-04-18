@@ -1,0 +1,89 @@
+.juego__ahorcado {
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 1136px;
+height: 406px;
+
+}
+
+.juego__ahoracado-infos {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 369px;
+height: 138px;
+
+}
+
+.juego__ahorcado-texto1 {
+width: 369px;
+height: 52px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 26px;
+}
+
+.juego__ahorcado-texto2 {
+    width: 369px;
+height: 19px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #464646;
+}
+
+.botones3 {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 560px;
+height: 51px;
+
+}
+
+.boton__repositorio4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    gap: 10px;
+    
+    width: 116px;
+    height: 51px;
+    border: 1px solid #2A7AE4;
+    color: #2A7AE4;
+      
+}
+
+.boton__demo4 {
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 10px;
+
+width: 105px;
+height: 51px;
+background: #2A7AE4;
+color: #FFFFFF;
+
+
+}

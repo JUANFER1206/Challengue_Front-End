@@ -1,0 +1,85 @@
+
+
+ 
+ 
+ 
+ .topo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px 0px;
+    gap: 611px;
+    
+    width: 1136px;
+    height: 88px;
+     
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+    
+    width: 134px;
+    height: 24px;
+    }
+
+  
+
+     
+     
+     @media screen and (min-width:1440px) {
+     
+        .home {
+            position: absolute;
+            width: 1440px;
+            height: 5020px;
+            left: 0px;
+            top: 0px;
+            background: #F5F5F5;
+
+        }
+
+        .tudo {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 0px;
+            gap: 32px;
+            
+            position: absolute;
+            height: 4620px;
+            left: 0%;
+            right: 0%;
+            top: 0px;
+            
+            }
+             
+     
+       }
+
+       @media screen and (min-width:786px) and (max-width:1439px) {
+
+        .tudo {
+
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 0px;
+            
+            position: absolute;
+            width: 768px;
+            height: 4379px;
+            left: 0px;
+            top: 0px;
+        }
+
+    
+    .links__encabezado {
+        display: none;
+    }
+    
+    }

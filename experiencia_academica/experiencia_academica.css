@@ -1,0 +1,137 @@
+.experiencia__academica {
+display: flex;
+flex-direction: column;
+align-items:center;
+padding: 82px;
+gap: 32px;
+width: 1440px;
+height: 581px;
+background: #EAF2FD;
+
+}
+
+.experiencia__academica-titulo {
+
+width: 339px;
+height: 38px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+
+}
+
+.experiencia__academica-caja {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+    
+    width: 1136px;
+    height: 347px;
+    justify-content: center;
+}
+
+.experiencia__academica-caja-item {
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 10px;
+
+width: 368px;
+height: 286px;
+background: #FFFFFF;
+}
+
+.experiencia__academica-caja-imagen1 {
+    width: 192px;
+    height: 130px;
+
+}
+.experiencia__academica-caja-imagen2 {
+    width: 190px;
+height: 130px;
+
+}
+.experiencia__academica-caja-imagen3 {
+    width: 192px;
+height: 130px;
+}
+
+.experiencia__academica-caja-texto1 {
+    width: 178px;
+height: 26px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 26px;
+}
+
+.experiencia__academica-caja-texto2 {
+width: 92px;
+height: 19px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #464646;
+
+}
+
+.experiencia__academica-caja-texto3 {
+    width: 257px;
+    height: 26px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+    color: #464646;
+}
+.experiencia__academica-caja-texto4 {
+    width: 90px;
+height: 19px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #464646;
+
+}
+
+.experiencia__academica-caja-texto5 {
+width: 209px;
+height: 26px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 26px;
+color: #464646;
+
+}
+
+.experiencia__academica-caja-texto6 {
+width: 120px;
+height: 19px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #464646;
+}

@@ -1,0 +1,65 @@
+.hero {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 208px;
+width: 1136px;
+height: 368px;
+
+}
+
+.hero__encabezado {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 751px;
+height: 246px;
+
+}
+
+.hola {
+width: 751px;
+height: 122px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 52px;
+line-height: 61px;
+}
+.soy {
+width: 751px;
+height: 52px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 26px;
+color: #464646;
+
+
+}
+
+.hero__links {
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 467px;
+height: 24px;
+
+}
+
+.hero__imagen {
+    width: 368px;
+height: 368px;
+background: url(../img/unsplash_anAAZ0nrqBY.png);
+}

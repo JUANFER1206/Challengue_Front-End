@@ -1,0 +1,51 @@
+.sobre {
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 64px;
+gap: 10px;
+width: 1440px;
+height: 383px;
+background: #EAF2FD;
+
+}
+
+.sobre__caja {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+width: 1136px;
+height: 255px;
+}
+
+.sobre__titulo {
+width: 137px;
+height: 38px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+color: #464646;
+
+}
+
+.sobre__titulo-descripcion {
+width: 751px;
+height: 133px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #464646;
+
+}
+
+.sobre__imagen {
+width: 140px;
+height: 52px;
+
+}
